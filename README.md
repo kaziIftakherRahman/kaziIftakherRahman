@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on Game Development<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Machine Learning and App Development<br>💬 Ask me about art, videogames and new ideas<br>⚡ Fun fact My friends call me an "IDEA FACTORY"
+🔭 I’m currently working on Web Develompenmt<br>👯 I’m looking to collaborate on Game Development<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about art, videogames and new ideas<br>⚡ Fun fact My friends call me an "IDEA FACTORY"
 
 
 ## 🌐 Socials:
